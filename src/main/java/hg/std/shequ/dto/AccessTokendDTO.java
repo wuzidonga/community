@@ -1,5 +1,6 @@
 package hg.std.shequ.dto;
 
+
 public class AccessTokendDTO {
     private String client_id;
     private String clinet_sectet;
